@@ -1,0 +1,77 @@
+/* algemeen */
+
+body {
+    text-align: center;
+    width: 100%;
+    font-family: 'Lobster', sans-serif;
+    font-family: 'Tangerine', cursive;
+}
+
+nav {
+    text-align: center;
+}
+
+.nav:hover {
+    background-color: chartreuse;
+}
+
+.nav {
+    font-size: 40px;
+    display: inline-block;
+    background-color: lightgreen;
+    border: solid pink;
+    padding: 10px;
+    text-align: center;
+    width: 70px;
+}
+
+article {
+    display: inline-block;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 45px; 
+}
+
+p {
+    font-size: 40px;
+    text-align: center;
+}
+
+/* home */
+
+img {
+    width: 250px;
+    height: auto;
+    float: left;
+    border: solid black;
+    margin: 10px;
+}
+
+/* eso */
+
+.eso {
+    font-size: 30px; 
+    border: solid 3px pink;
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+video {
+    width: 250px;
+    float: left;
+    height: auto;
+    float: left;
+    border: solid black;
+    margin: 10px;
+}
+
+figcaption {
+    font-size: 30px;
+}
